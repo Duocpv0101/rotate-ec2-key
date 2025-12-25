@@ -1,4 +1,4 @@
-HOST: ec2-54-168-39-63.ap-northeast-1.compute.amazonaws.com
+HOST: xxxx.ap-northeast-1.compute.amazonaws.com
 USERNAME: ec2-user
-NEWKEY: qeybase-key
+NEWKEY: xxx-key
 OLDKEY: devop-rotate-key.pem
