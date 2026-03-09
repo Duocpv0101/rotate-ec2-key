@@ -2,3 +2,10 @@ HOST: xxxx.ap-northeast-1.compute.amazonaws.com
 USERNAME: ec2-user
 NEWKEY: xxx-key
 OLDKEY: devop-rotate-key.pem
+
+const config = {
+  awsKey: "AKIAIOSFODNN7EXAMPLE",
+  stripeKey: "sk_live_abc123xyz",
+  dbUrl: "mongodb+srv://admin:password123@cluster.mongodb.net",
+  githubToken: "ghp_xxxxxxxxxxxxxxxxxxxx",
+}
